@@ -1,4 +1,4 @@
-## Name
+##  Web Project
 Themed webpage or portal with Materialize CSS
 
 ##  Description
